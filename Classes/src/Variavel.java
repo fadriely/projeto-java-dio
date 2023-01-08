@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Variavel {
+public class Variavel {
+    public static void main(String[] args) {
+
+    }
 }

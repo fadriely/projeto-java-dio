@@ -1,2 +1,2 @@
 # projeto-java-dio
-Repositório para exemplos e exercícios
+Repositório para exemplos do curso de Java básico pela Dio.

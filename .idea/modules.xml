@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSintax/JavaSintax.java.iml" filepath="$PROJECT_DIR$/JavaSintax/JavaSintax.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-terminal.java/java-terminal.java.iml" filepath="$PROJECT_DIR$/java-terminal.java/java-terminal.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica-condicional/logica-condicional.iml" filepath="$PROJECT_DIR$/logica-condicional/logica-condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projeto-java-dio.iml" filepath="$PROJECT_DIR$/.idea/projeto-java-dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
+    </modules>
+  </component>
+</project>
